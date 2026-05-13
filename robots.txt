@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sserdarb.github.io/resources-seax6t/sitemap.xml
